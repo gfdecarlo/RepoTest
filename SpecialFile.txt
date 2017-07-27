@@ -1,0 +1,6 @@
+This is my special file.
+I don't want this to be a part of the master branch just yet.
+
+I want to edit this.
+
+Now I am ready to merge this with my master branch.
